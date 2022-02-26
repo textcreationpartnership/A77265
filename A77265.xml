@@ -1,0 +1,823 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A mustur roll of the evill angels embatteld against S, Michael. Being a collection, according to the order of time, (throughout all the centuries) of the chiefe of the ancient heretikes, with their tenets, such as were condemned by generall councels. Faithfully collected out of the most authentike authors. / By R.B. Gent.</title>
+            <author>Brathwaite, Richard, 1588?-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77265</idno>
+            <idno type="STC">Wing B4272</idno>
+            <idno type="STC">Thomason E1549_2</idno>
+            <idno type="STC">ESTC R209469</idno>
+            <idno type="EEBO-CITATION">99868350</idno>
+            <idno type="PROQUEST">99868350</idno>
+            <idno type="VID">170080</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77265)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170080)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 196:E1549[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A mustur roll of the evill angels embatteld against S, Michael. Being a collection, according to the order of time, (throughout all the centuries) of the chiefe of the ancient heretikes, with their tenets, such as were condemned by generall councels. Faithfully collected out of the most authentike authors. / By R.B. Gent.</title>
+                  <author>Brathwaite, Richard, 1588?-1673.</author>
+               </titleStmt>
+               <extent>94 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Sheers, and are to be sold at his shop in S. Pauls Churchyard at the sign of the Bible,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R.B. = Richard Brathwait.</note>
+                  <note>Annotation on Thomason copy: "May. 13".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Heresy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170080:1" rendition="simple:additions"/>
+            <p>A MUSTUR ROLL of the evill Angels embatteld againſt S, <hi>Michael.</hi> Being a Collection, according to the order of Time, (throughout all the <hi>Centuries.)</hi> of the chiefe of the Ancient <hi>Heretikes,</hi> with their <hi>Tenets,</hi> ſuch as were condemned by Generall <hi>Councels.</hi> Faithfully collected out of the moſt. Authentike Authors. By R. B. Gent.</p>
+            <q>
+               <bibl>Sil. Ital.</bibl> 
+               <hi>Heu primaec ſcelerum cauſa Mortalitus aegris, Naturam neſcire Deum.</hi>
+            </q>
+            <p>London, Printed for WILLIAM SHEERS, and are to be ſold at his ſhop in S. Pauls Churchyard at the ſign of the Bible 1655.</p>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:170080:2"/>
+            <head>The Errata.</head>
+            <p>PAg. 15. lin. 21. read admired. 50.2. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 52.2. <hi>Ecbert.</hi> 55.16. this name <hi>Eliel</hi> after <hi>(c.)</hi> 60.10. <hi>Venus.</hi> 113.7. <hi>triſtiti<g ref="char:EOLhyphen"/>am.</hi> 121.7. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 145.9. it is. 171.7. <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. 178.10. <hi>Timaeus.</hi> 194.2: it ſelf. 197.6. Womens names in the Title of the 2d Book. 203. ult. which the Aegyptians worſhip as a God in the Sun. 227.4. a meaſure or rule.</p>
+            <pb facs="tcp:170080:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170080:3"/>
+            <pb facs="tcp:170080:3"/>
+            <head>To Sir <hi>I. P.</hi> Baronet.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Send you heere an Aſſize Booke, or rather a Treatiſe of Poyſons; to per<g ref="char:EOLhyphen"/>uſe which, I had not given you the trouble, had not your own commands obliged mee to it: for what my me<g ref="char:EOLhyphen"/>mory faild me of in our laſt diſcourſe upon this ſubject of <hi>Heretikes,</hi> I have, to comply with your deſires, turn'd over thoſe few Treaſuries
+<pb facs="tcp:170080:4"/>of <hi>Common places</hi> wherewith my reading hath furniſhed mee. And now you may behold the Locuſts cree<g ref="char:EOLhyphen"/>ping out of the bottomleſſe Pit in their orders, and heare all their ſe<g ref="char:EOLhyphen"/>verall tones; for I have according to the order of time given you the names of all the chiefe <hi>Heretikes</hi> with their poſitions throughout all the <hi>Centuries.</hi> Here are none but ſuch as were condemned by <hi>Gene<g ref="char:EOLhyphen"/>rall</hi> or <hi>Oeconomicall Councels:</hi> Nor is there any Author quoted that is not of a venerable name.</p>
+            <p>I might have inſerted more of this deluded gang, but when one followed another allready condem<g ref="char:EOLhyphen"/>ned, and lick't but up his vomit, I have omitted him, for there is a kind of tranſmigration of <hi>Hereſie,</hi> which needs no proofe to ſuch as live
+<pb facs="tcp:170080:4"/>in this Age, wherein her womb is more fruitfull of monſters then <hi>Af<g ref="char:EOLhyphen"/>frick.</hi>
+            </p>
+            <p>This Bedroll I ſubmit to your judgement, which is abundantly a<g ref="char:EOLhyphen"/>ble to ſupply any defect you may finde therin.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:170080:5"/>
+            <pb n="7" facs="tcp:170080:5"/>
+            <head>Capitall Heretikes in the ſeve<g ref="char:EOLhyphen"/>rall Centuries.</head>
+            <div n="1" type="century">
+               <head>Heretikes in the firſt Century.</head>
+               <div n="1" type="heretic">
+                  <head>I. SIMON MAGUS <hi>An. Dom.</hi> 55. <hi>or thereabouts.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">H</seg>E was a <hi>Samaritan</hi> borne. Of him and his Sorcery and the great opinion the <hi>Sa<g ref="char:EOLhyphen"/>maritans</hi> had of him, we read <hi>Act. cap.</hi> 8. <hi>verſe</hi> 9. <hi>&amp;c.</hi> He was the Head and be<g ref="char:EOLhyphen"/>ginner
+<pb n="8" facs="tcp:170080:6"/>of Hereſie. <hi>Euſeb. lib.</hi> 2. <hi>cap.</hi> 13. He affirmed,</p>
+                  <p n="1">1. That he himſelfe was the Father, Son, and Holy Ghoſt, and that he was worſhipped of all people by divers names.</p>
+                  <p n="2">2. That <hi>Chriſt</hi> did ſuffer no hurt of the <hi>Jewes,</hi> for hee was <hi>Chriſt. S. Jeronym. contra Lucifer.</hi>
+                  </p>
+                  <p n="3">3. That any man might lie with any woman; for this was no ſin.</p>
+                  <p n="4">4. That the world was made by Angels, and that an Angel redeemed Mankind.</p>
+                  <p n="5">5. Hee denied the Reſurre<g ref="char:EOLhyphen"/>ction.</p>
+                  <p n="6">6. He thought that the gifts of the Holy Ghoſt might bee bought with money. <hi>Act. ch.</hi> 8. <hi>verſ.</hi> 18. And therefore that
+<pb n="9" facs="tcp:170080:6"/>ſinne of him is called <hi>Simony.</hi>
+                  </p>
+               </div>
+               <div n="2" type="heretic">
+                  <head>II. CHRINTHUS <hi>about the yeere</hi> 69.</head>
+                  <p>He is ſaid to be a <hi>Jew</hi> by birth: he lived at the ſame time with <hi>Saint John the Evangeliſt, Irenaeus lib.</hi> 3. <hi>cap.</hi> 3. He taught,</p>
+                  <p n="1">1. That <hi>Jeſus</hi> our Saviour had for his Parents <hi>Joſeph</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> and that at his Baptiſme <hi>Chriſt</hi> deſcended on him, who (ſaith he) is called the <hi>holy Ghoſt,</hi> by whom hee did all his Mira<g ref="char:EOLhyphen"/>cles; when <hi>Joſus</hi> was to bee cru<g ref="char:EOLhyphen"/>cified of the <hi>Jewes,</hi> then <hi>Chriſt</hi> left him, and went up againe into Heaven. <hi>Epiphanius Hereſi.</hi> 28. <hi>Hiſt. Magdeburgenſ. Cent.</hi> 1 <hi>lib.</hi> 2. <hi>cap.</hi> 5.</p>
+                  <pb n="10" facs="tcp:170080:7"/>
+                  <p n="2">2 That <hi>Chriſts</hi> Kingdom after the Reſurrection ſhould be an earthly Kingdome, and that men then ſhould live in all fleſhly luſts and pleaſures toge<g ref="char:EOLhyphen"/>ther for a thouſand yeares. <hi>Eu<g ref="char:EOLhyphen"/>ſeb. hiſt. Eccleſ. lib.</hi> 3, <hi>Eccl. Hiſt. cap.</hi> 14.</p>
+                  <p n="3">3 He denyed the divine na<g ref="char:EOLhyphen"/>ture of <hi>Chriſt,</hi> and ſaid, that he had onely a humane Nature, and that he was not yet riſen from the dead, but he ſhould riſe hereafter. <hi>Jrenaeus ut Su<g ref="char:EOLhyphen"/>pra.</hi>
+                  </p>
+                  <p n="4">4 He affirmed that the old Law, and all the old comman<g ref="char:EOLhyphen"/>dements and precepts belong<g ref="char:EOLhyphen"/>ing unto it were to be kept to<g ref="char:EOLhyphen"/>gether with the new Law or Goſpell, and that therfore
+<pb n="11" facs="tcp:170080:7"/>Circumciſion was neceſſary for every one that would be ſaved. <hi>Philaſtrius lib. de haereſibus.</hi>
+                  </p>
+               </div>
+               <div n="3" type="heretic">
+                  <head>III. EBION <hi>An.</hi> 80. <hi>or thereabouts.</hi>
+                  </head>
+                  <p>He taught with <hi>Cerinthus.</hi>
+                  </p>
+                  <p n="1">1. That <hi>Chriſt</hi> was but a meere Man. <hi>Hilarius. lib.</hi> 1. <hi>de Trinitate.</hi> And therfore the <hi>Goſpell</hi> of <hi>Saint John</hi> was written to confute him. <hi>Hieronymus. lib. de Eccleſ. Scriptoribus.</hi>
+                  </p>
+                  <p n="2">2. That when <hi>Ieſus</hi> was thir<g ref="char:EOLhyphen"/>tie yeares old, there deſcended on him and dwelt in him ano<g ref="char:EOLhyphen"/>ther Perſon, who was called <hi>Chriſt:</hi> and thus <hi>Jeſus</hi> and <hi>Chriſt</hi> dwelt and were united toge<g ref="char:EOLhyphen"/>ther. <hi>Ireneus lib.</hi> 1. <hi>Cap.</hi> 25. <hi>and</hi>
+                     <pb n="12" facs="tcp:170080:8"/>26. <hi>Epiph. hereſ.</hi> 30. <hi>&amp; Niceph. hiſt. Eccl. lib.</hi> 3. <hi>cap.</hi> 13.</p>
+                  <p n="3">3 He agreed with <hi>Cerinthus</hi> in the reſt of the Hereſies tou<g ref="char:EOLhyphen"/>ching Circumciſion, and keep<g ref="char:EOLhyphen"/>ing all the Law of <hi>Moſes. Epiph. Ireneus. &amp; Niceph. ut ſupra.</hi>
+                  </p>
+               </div>
+               <div n="4" type="heretic">
+                  <head>IV. MENANDER <hi>Anno</hi> 81. <hi>or thera<g ref="char:EOLhyphen"/>bouts.</hi>
+                  </head>
+                  <p>He was the ſchollar of <hi>Simon Magus,</hi> and lived about the ſame time with <hi>Ebion and Ce<g ref="char:EOLhyphen"/>rinthus.</hi> He held</p>
+                  <p n="1">1 That the world was made of Angells, and that theſe An<g ref="char:EOLhyphen"/>gells could be overcom by no meanes but by <hi>Art magick.</hi>
+                  </p>
+                  <p n="2">2. He denyed <hi>Chriſt</hi> to be a
+<pb n="13" facs="tcp:170080:8"/>true Man. and</p>
+                  <p n="3">3 Affirmed himſelfe to be the ſaviour of the world, and that he came from Heaven to ſave mankind, and that all who would be ſaved muſt be bapti<g ref="char:EOLhyphen"/>zed in his Name. <hi>Euſeb. lib.</hi> 3. <hi>cap</hi> 26. <hi>Auguſt. lib. de haereſibus. Niceph. lib.</hi> 3. <hi>cap</hi> 12.</p>
+               </div>
+               <div n="5" type="heretic">
+                  <head>V NICHOLAS <hi>of Antiochia.</hi>
+                  </head>
+                  <p>He was one of the ſeaven firſt Deacons. <hi>Act. cap.</hi> 6. Ver. 5. He having a fair wife, and being accuſed of being jealous of her gave leave to any that would lie with her. <hi>Clemens A<g ref="char:EOLhyphen"/>lexandr. lib.</hi> 3. <hi>Strom.</hi>
+                  </p>
+                  <p>Others taking occaſion of
+<pb n="14" facs="tcp:170080:9"/>this fact of his, thought it Lawfull for any man to have the company of any woman, whom they themſelves would like. Againſt theſe men <hi>Saint John</hi> doth write in the <hi>Apocalips cap.</hi> 2, <hi>ver.</hi> 6, <hi>Epiphanius</hi> ſaith that they taught Venery to be ſo neceſſary that thoſe men who uſed it not every week, on Fridaye could not bee ſaved. <hi>Epiph. lib.</hi> 2, <hi>Tom.</hi> 2. <hi>heres.</hi> 25. Of theſe <hi>Nicholaites S. Au<g ref="char:EOLhyphen"/>guſt.</hi> and <hi>Philaſtrius</hi> doe ſpeake, <hi>lib. de Haereſibus. S. Jerom in e<g ref="char:EOLhyphen"/>piſt. de Fabiano lapſo. Niceph. lib.</hi> 3. <hi>Eccles. hiſt. cap.</hi> 15. The En<g ref="char:EOLhyphen"/>gliſh notes upon the prementi<g ref="char:EOLhyphen"/>oned 2. <hi>cap.</hi> of the <hi>Apoc.</hi> in the <hi>Remiſh Teſtament,</hi> ſaith, that this <hi>Nicholas</hi> was not onely thought
+<pb n="15" facs="tcp:170080:9"/>to have taught community of wives, but alſo that it was lawfull to eat of meates offered to Idols. <hi>Idolothita.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="2" type="century">
+               <head>Heretikes in the ſecond Century.</head>
+               <div n="6" type="heretic">
+                  <head>VI. SATURNINU <hi>circ. An. Dom.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>8.</head>
+                  <p>He was borne at <hi>Antioch.</hi> He held many opinions of <hi>Menan<g ref="char:EOLhyphen"/>der</hi> and <hi>Simon Magus.</hi>
+                  </p>
+                  <p n="1">1. That the World was made of ſeven Angells, without the knowledge of God the fa<g ref="char:EOLhyphen"/>ther. <hi>Tertul. de Hereſibus.</hi>
+                  </p>
+                  <p n="2">2. That <hi>Chriſt</hi> was but the ſhaddow of a man; for he had neither the true body nor ſoule
+<pb n="16" facs="tcp:170080:10"/>of a man, and thus he fulfilled the myſtery of our Redempti<g ref="char:EOLhyphen"/>on. <hi>Philaſter Brixienſis.</hi>
+                  </p>
+               </div>
+               <div n="7" type="heretic">
+                  <head>VII. BASILIDES <hi>Ann.</hi> 124.</head>
+                  <p>He taught,</p>
+                  <p n="1">1. That <hi>Chriſt</hi> did not ſuffer, or was crucified, but <hi>Simon</hi> of <hi>Cyrene. Euſeb. Caeſarienſis lib.</hi> 4. <hi>Hiſt. Eccl. Cap.</hi> 8. and <hi>Aug. lib. de haereſibus.</hi>
+                  </p>
+                  <p n="2">2. He turnd away men from ſuffering Martyrdom, affirming that it was no ſin to deny <hi>Chriſt</hi> in the time of perſecution.</p>
+                  <p n="3">3. That the Angells made 365 Heavens, and that theſe Heavens made the world. <hi>Aug.</hi> and <hi>Philaſt. de Haereſibus. Niceph. lib.</hi> 4. <hi>cap.</hi> 2.</p>
+               </div>
+               <div n="8" type="heretic">
+                  <pb n="17" facs="tcp:170080:10"/>
+                  <head>VIII. GNOSTICI. <hi>circ. Ann.</hi> 129.</head>
+                  <p>Theſe were the moſt vile <hi>Hereticks</hi> in filthineſſe of all o<g ref="char:EOLhyphen"/>thers. <hi>Epiph. l.</hi> 2. <hi>Tom.</hi> 2. <hi>haeres.</hi> 26. their tenets were.</p>
+                  <p n="1">1. That the ſoule was made of the ſubſtance of God, and that bruit beaſts had reaſon as man hath.</p>
+                  <p n="2">2. That there were two Gods, a good God, and an evill God, and that this evill God was the Creator of all things. <hi>Philaſt. lib. de haereſibus. Niceph. lib.</hi> 4. <hi>cap.</hi> 2. <hi>&amp; lib.</hi> 2. <hi>cap.</hi> 24.</p>
+               </div>
+               <div n="9" type="heretic">
+                  <head>IX. CARPOCRATES.</head>
+                  <p>Hee lived at the ſame time with the <hi>Ghoſticks,</hi> and is ſaid to bee the Author of their Here<g ref="char:EOLhyphen"/>ſies.
+<pb n="18" facs="tcp:170080:11"/>
+                     <hi>Irenaeus lib.</hi> 1. <hi>cap.</hi> 24. He taught.</p>
+                  <p n="1">1. That <hi>Chriſt</hi> was a meere man, born of the ſeed of <hi>Joſeph</hi> and not of the B. Virgin <hi>Mary.</hi> That hee was a good man, and that therfore (after he was cru<g ref="char:EOLhyphen"/>cified) his ſoule went up into Heaven, but his body is ſtill in the Grave. <hi>Euſeb. Lib.</hi> 4. <hi>cap.</hi> 7.</p>
+                  <p n="2">2. He taught that the world was made by Angells.</p>
+                  <p n="3">3. That there was no Reſur<g ref="char:EOLhyphen"/>rection. <hi>Gloſſa. in cap.</hi> 15. <hi>Leviti.</hi>
+                  </p>
+                  <p n="4">4. He rejected the Old Teſta<g ref="char:EOLhyphen"/>ment, as not Canonicall Scrip<g ref="char:EOLhyphen"/>ture. <hi>Aug. de heres. Niceph. lib.</hi> 4. <hi>cap.</hi> 2. <hi>Philaſtrius,</hi> and <hi>Tertul.</hi>
+                  </p>
+               </div>
+               <div n="10" type="heretic">
+                  <head>X. CEDRON. <hi>circ. An.</hi> 144, taught.</head>
+                  <p n="1">1. That there were two be<g ref="char:EOLhyphen"/>ginnings
+<pb n="19" facs="tcp:170080:11"/>of al things: a good God from whom came all good, and an evill God, from whom came all evill. <hi>Hilarius. li.</hi> 6, <hi>de Trini<g ref="char:EOLhyphen"/>tate.</hi>
+                  </p>
+                  <p n="2">2. That <hi>Chriſt</hi> was neither born of a woman nor had fleſh, neither did hee truely die and ſuffer, but hee did ſeeme to die and ſuffer. <hi>Aug. lib. de heres. cap.</hi> 21</p>
+                  <p n="3">3. That the Law of <hi>Moſes</hi> was evill, and came from an evill beginning; and this opini<g ref="char:EOLhyphen"/>on was imbraced by his ſcholar <hi>Marcion,</hi> as alſo by <hi>Manichaeus. Tertul. ut ſupra. Irenaeus. lib.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <hi>cap</hi> 28.</p>
+               </div>
+               <div n="11" type="heretic">
+                  <pb n="20" facs="tcp:170080:12"/>
+                  <head>XI VALENTINIUS <hi>circ. An.</hi> 150.</head>
+                  <p>Affirmed,</p>
+                  <p n="1">1. That <hi>Chriſt</hi> brought his fleſh with him from Heaven, and took no fleſh of the B. Vir<g ref="char:EOLhyphen"/>gin, but paſſed through her as water doth through a Conduit pipe. <hi>Tertul. lib. contra Valen<g ref="char:EOLhyphen"/>tinianos.</hi>
+                  </p>
+                  <p n="2">2 That ther are two begin<g ref="char:EOLhyphen"/>nings of all things, <hi>Profundum. i. e.</hi> the <hi>deep:</hi> and <hi>Silentium i. e. Silence:</hi> theſe being married to<g ref="char:EOLhyphen"/>gether had iſſue <hi>Underſtanding</hi> and <hi>Truth,</hi> which brought forth three hundred <hi>Aeonas.</hi> viz. thirty Ages or Angells; and of the 130 <hi>Aeon</hi> were the De<g ref="char:EOLhyphen"/>vill
+<pb n="21" facs="tcp:170080:12"/>and others born, who made the world <hi>Philaſt. lib. de Haere<g ref="char:EOLhyphen"/>ſi bus.</hi>
+                  </p>
+               </div>
+               <div n="12" type="heretic">
+                  <head>XII. MARCION. <hi>Ann. Dom.</hi> 155. <hi>or thereabouts.</hi>
+                  </head>
+                  <p>Was firſt a <hi>Stoick,</hi> then a <hi>Chriſtian,</hi> he followed <hi>Baſilides, Cedron,</hi> and <hi>Valentinius</hi> in their errors. <hi>Policarpus</hi> called him <hi>Primo genitam Satanae,</hi> i. e. The Devills eldeſt ſon.</p>
+                  <p n="1">1. Hee Baptiſed them who died without Baptiſme, ſaying that <hi>S. Paul</hi> did will him ſo to doe. 1, <hi>Cor. cap.</hi> 5, <hi>V.</hi> 29. <hi>Theo<g ref="char:EOLhyphen"/>phylact. in com. ſuper locum.</hi>
+                  </p>
+                  <p n="2">2. He taught that marriage was unlawfull, and that it was
+<pb n="22" facs="tcp:170080:13"/>a great ſin to marry. <hi>Hier. lib.</hi> 1, <hi>contra Jovinianum.</hi>
+                  </p>
+                  <p n="1">1. That <hi>Cain,</hi> the <hi>Sodomites</hi> and all wicked men were ſaved, becauſe they did meet <hi>Chriſt</hi> when hee deſcended into Hell, but the Patriarches and Pro<g ref="char:EOLhyphen"/>phers are ſtill in Hell for not meeting of <hi>Chriſt,</hi> for they thought (ſaith hee) that <hi>Chriſt</hi> came to tempt them. <hi>Iren. lib.</hi> 3, <hi>cap.</hi> 4. <hi>Ter.</hi> and <hi>alii.</hi>
+                  </p>
+               </div>
+               <div n="13" type="heretic">
+                  <head>XIII. TATIANUS. <hi>circ. Ann.</hi> 173.</head>
+                  <p>Hee was of <hi>Syria,</hi> and the Schollar of <hi>Juſtin Martyr,</hi> and continued a good Chriſtian as long as his maſter lived, but af<g ref="char:EOLhyphen"/>ter his death hee ran into many
+<pb n="23" facs="tcp:170080:13"/>Hereſies. His Scholars were called <hi>Encratiae</hi> becauſe of their continency.</p>
+                  <p n="1">1. Hee held that <hi>Adam</hi> was damned.</p>
+                  <p n="2">2. That it was not lawfull to eat the fleſh of any creature, for it came from the divell.</p>
+                  <p n="3">3. He forbad marriage, and drinking of Wine, and ſaid that the Divell was the Au<g ref="char:EOLhyphen"/>thor of theſe alſo. <hi>Irenaeus lib.</hi> 1, <hi>cap.</hi> 31. <hi>Clemens. lib.</hi> 3. <hi>Strom. Epi<g ref="char:EOLhyphen"/>pha. lib.</hi> 2. <hi>at the end of the third Tome.</hi>
+                  </p>
+               </div>
+               <div n="14" type="heretic">
+                  <head>XIV. APPELLES <hi>about the yeare</hi> 178.</head>
+                  <p n="1">1. That <hi>Chriſt</hi> tooke not his fleſh of his mother, but of the
+<pb n="24" facs="tcp:170080:14"/>elements, the which hee reſto<g ref="char:EOLhyphen"/>red to them again after his Re<g ref="char:EOLhyphen"/>ſurrection, and ſo hee went in<g ref="char:EOLhyphen"/>to Heaven without any body, or fleſh at all. <hi>Euſeb. lib.</hi> 5. <hi>cap.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <hi>Aug.</hi> and <hi>Philaſt.</hi>
+                  </p>
+                  <p n="2">2. He taught with other He<g ref="char:EOLhyphen"/>retikes that there were two Gods, a good and a bad God. But he did not teach that theſe two Gods were two begin<g ref="char:EOLhyphen"/>nings, but one beginning; for the good God made the bad God, and hee being bad made the world bad like himſelfe. <hi>Aug. de Haereſibus cap.</hi> 23.</p>
+                  <p n="3">3 He ſaid that the Prophets did contradict one another in their Propheſies, becauſe ſome of them had the ſpirit of the good God, and ſome of the bad.
+<pb n="25" facs="tcp:170080:14"/>
+                     <hi>Euſeb. lib.</hi> 5. <hi>hiſt. Eccl. cap</hi> 12.</p>
+                  <p n="4">4 He put out theſe words. <hi>i e Iohn. cap.</hi> 4. <hi>ver.</hi> 2 <hi>and</hi> 3. <hi>Qui<g ref="char:EOLhyphen"/>cunque ſpiritus profitetur Jeſum Chriſtum in carne veniſſe ex deo eſt.</hi> &amp;c. i. e. <hi>Every ſpirit that Confeſſeth Ieſus Chriſt to have come in fleſh is of God.</hi> &amp;c. For theſe words doe prove the incarnati<g ref="char:EOLhyphen"/>on of <hi>Chriſt,</hi> and confute his firſt Hereſie, <hi>Niceph, hiſt, Eccl, lib</hi> 4, <hi>cap</hi> 28.</p>
+               </div>
+               <div n="15" type="heretic">
+                  <head>XV MONTANUS <hi>about the year.</hi> 181.</head>
+                  <p>Affirmed,</p>
+                  <p n="1">1 That he had the <hi>Holy Ghoſt</hi> and that the <hi>Apoſtles</hi> had not.</p>
+                  <p n="2">2. He did baptiſe the dead.</p>
+                  <p n="3">3. He did allow the firſt
+<pb n="26" facs="tcp:170080:15"/>marriages, but not the ſecond, and permitted them who were married to be ſeperated when they themſelves would.</p>
+                  <p n="4">4. He did take away Repen<g ref="char:EOLhyphen"/>tance, affirming that ſinners could never have their ſins par<g ref="char:EOLhyphen"/>doned by Repentance.</p>
+                  <p n="5">5. That the <hi>Apoſtles</hi> and <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> underſtood not any thing that they had written, but were <hi>Areptitii. Euſeb. lib.</hi> 5. <hi>cap.</hi> 15. <hi>&amp;</hi> 18. <hi>Epipha. Theodoretus. So<g ref="char:EOLhyphen"/>crates.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="3" type="century">
+               <pb n="27" facs="tcp:170080:15"/>
+               <head>Heretikes in the third Century.</head>
+               <div n="16" type="heretic">
+                  <head>XVI ELCHESITAE, <hi>Anno Dom.</hi> 239 <hi>or ther abouts.</hi>
+                  </head>
+                  <p>They had their name from <hi>Eloheſae</hi> an <hi>Arabian,</hi> they defen<g ref="char:EOLhyphen"/>ded the ſame hereſies with the <hi>Ebionites,</hi> and ſaid that it was no ſin to deny <hi>Chriſt</hi> in the time of Perſecution, if then they did reſolve in their Hearts that they would be conſtant in the faith of <hi>Chriſt,</hi> for God ſay they, doth regard more the Heart then the tongue. <hi>Euſeb. Hiſt Eccl. lib.</hi> 6. <hi>cap.</hi> 18.</p>
+               </div>
+               <div n="17" type="heretic">
+                  <pb n="28" facs="tcp:170080:16"/>
+                  <head>XVII MELCHISEDECHIANI <hi>Ann.</hi> 240.</head>
+                  <p>They thought that <hi>Melchiſe<g ref="char:EOLhyphen"/>dech</hi> was not a meer man, but a Power of God greater then <hi>Chriſt;</hi> becauſe that <hi>Chriſt</hi> was of the order of <hi>Melchiſedech, Pſa,</hi> 110, <hi>ver,</hi> 4: <hi>Aug, lib, de hae<g ref="char:EOLhyphen"/>reſibus et Epiph, Haeres,</hi> 55.</p>
+               </div>
+               <div n="18" type="heretic">
+                  <head>XVIII NOVATUS <hi>and Novatiani, circ. Ann,</hi> 250,</head>
+                  <p>They were alſo called <gap reason="foreign" resp="#OXF">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>i.e, Puritanes.</hi> for they thought themſelves purer then others.</p>
+                  <p n="1">1. They would not receive
+<pb n="29" facs="tcp:170080:16"/>any into the Church after they had denyed <hi>Chriſt,</hi> albeit they did repent. <hi>Cyprian. in Epiſt. con<g ref="char:EOLhyphen"/>tra Novatianum.</hi>
+                  </p>
+                  <p n="2">2. They taught that Repen<g ref="char:EOLhyphen"/>tance will not profit them who ſin after Baptiſme. <hi>Philaſt. lib. de haereſibus.</hi>
+                  </p>
+                  <p n="3">3, They did rebaptize them who had beene baptiſed of the Catholikes. And</p>
+                  <p n="4">4. They would not receive them into their Congregation who were married to a ſecond wife after their Baptiſme. <hi>Eu<g ref="char:EOLhyphen"/>ſeb. lib.</hi> 6, <hi>cap.</hi> 43, <hi>Aug. de haere<g ref="char:EOLhyphen"/>ſibus.</hi>
+                  </p>
+               </div>
+               <div n="19" type="heretic">
+                  <head>XIX. SABELIUS <hi>An.</hi> 260. <hi>vel. circ.</hi>
+                  </head>
+                  <p>Hee was the ſchollar of
+<pb n="30" facs="tcp:170080:17"/>
+                     <hi>Noetus,</hi> theſe two and <hi>Peraxeas,</hi> and <hi>Hermogenes</hi> with them, did confound both the number and difference of the <hi>Perſons</hi> in the bleſſed <hi>Trinity:</hi> for they defen<g ref="char:EOLhyphen"/>ded that the <hi>Father, Son,</hi> and <hi>Ho<g ref="char:EOLhyphen"/>ly Ghoſt,</hi> were but one <hi>Perſon,</hi> who had three names, and who was ſometimes called the <hi>Father,</hi> ſometimes the <hi>Son,</hi> and ſometimes the <hi>Holy Ghoſt.</hi> Hee in the Old Teſtament as <hi>God the Father</hi> did give the Law. He in the new Teſtament as <hi>God the Son</hi> was made man, and di<g ref="char:EOLhyphen"/>ed. He in the time of <hi>Pentecoſt</hi> as <hi>God the Holy Ghoſt</hi> came downe on the <hi>Apoſtles. Niceph. lib.</hi> 6, <hi>cap.</hi> 26, Theſe Hereticks were alſo called <hi>Patropaſſiani,</hi> becauſe they ſay that <hi>God the Father</hi> di<g ref="char:EOLhyphen"/>ed
+<pb n="31" facs="tcp:170080:17"/>for us. <hi>Aug. Serm.</hi> 2, <hi>Domini<g ref="char:EOLhyphen"/>cae poſt feſtam Trinitatis.</hi>
+                  </p>
+               </div>
+               <div n="20" type="heretic">
+                  <head>XX. SAMOSATENUS, <hi>Ann.</hi> 273.</head>
+                  <p>Hee was borne in <hi>Syria</hi> and followed the <hi>Hereſies</hi> of <hi>Cerin<g ref="char:EOLhyphen"/>thus</hi> and <hi>Ebion.</hi>
+                  </p>
+                  <p n="1">1. He taught that the <hi>Son of God</hi> came not down from Hea<g ref="char:EOLhyphen"/>ven, but had his beginning in the Womb of the <hi>Virgin. Aug. in Catalogo Hereticorum.</hi>
+                  </p>
+                  <p n="2">2. That the <hi>Son of God</hi> is not a <hi>Perſon,</hi> neither is hee eternall as his father is, nor the ſubſtan<g ref="char:EOLhyphen"/>tiall word of his father. But is as a word that is uttered by the mouth, and ſo paſſeth a<g ref="char:EOLhyphen"/>way with the breath thereof. <hi>Philaſt. de haereſibus.</hi>
+                  </p>
+                  <pb n="32" facs="tcp:170080:18"/>
+                  <p>Yet this <hi>Son of God</hi> (ſaith he) was a juſt man, and by reaſon of his good life might bee thought rather to have deſer<g ref="char:EOLhyphen"/>ved the name of <hi>God</hi> then any other man. <hi>Niceph. lib.</hi> 6, <hi>cap.</hi> 27.</p>
+               </div>
+               <div n="21" type="heretic">
+                  <head>XXI. MANES <hi>from whom came the Ma<g ref="char:EOLhyphen"/>nichies.</hi>
+                  </head>
+                  <p>He was borne in <hi>Perſia,</hi> hee lived at the ſame time with <hi>Samoſatenus.</hi>
+                  </p>
+                  <p>Hee ſaid that himſelfe was borne of a <hi>Virgin,</hi> and that hee was both <hi>Chriſt</hi> and the <hi>Holy Ghoſt.</hi> The which that he might the better perſwade others, he made choice of 12 of his <hi>Diſci<g ref="char:EOLhyphen"/>ples</hi> and ſent them to preach the opinion he maintained. <hi>Eu<g ref="char:EOLhyphen"/>ſeb.
+<pb n="33" facs="tcp:170080:18"/>l.</hi> 7, <hi>c.</hi> 28. The Doctrine of the <hi>Manichies</hi> was compoun<g ref="char:EOLhyphen"/>ded of many old <hi>haereſies.</hi> As</p>
+                  <p n="1">1. That the ſoule of man is either the ſubſtance of God, or of the ſubſtance of God.</p>
+                  <p n="2">2. That warre is altogether unlawfull, and this their opi<g ref="char:EOLhyphen"/>nion made them to blame <hi>Mo<g ref="char:EOLhyphen"/>ſes</hi> for waging warre. <hi>Aug. lib.</hi> 22. <hi>contra Fauſtum. cap.</hi> 74.</p>
+                  <p n="3">3. That beaſts have not on<g ref="char:EOLhyphen"/>ly ſence, but reaſon and under<g ref="char:EOLhyphen"/>ſtanding as well as men.</p>
+                  <p n="4">4. That there were two be<g ref="char:EOLhyphen"/>ginnings which are eternall, <hi>viz God</hi> and <hi>Matter,</hi> the one (ſay they) is good, the other bad, the one is light the other dark<g ref="char:EOLhyphen"/>neſſe, and the Prince of dark<g ref="char:EOLhyphen"/>neſſe the Devill they call <hi>Ma<g ref="char:EOLhyphen"/>teriae
+<pb n="34" facs="tcp:170080:19"/>Principem, i. e.</hi> the Prince of matter.</p>
+                  <p n="5">5. That the body is evill by nature, for it came from the e<g ref="char:EOLhyphen"/>vill beginning, and ſo did fleſh, and therefore fleſh muſt not be eaten.</p>
+                  <p n="6">6. That the Devill is evill by nature, and ſo are all other creatures, for they were made of the bad God, and ſo bread is the Devills creature, where<g ref="char:EOLhyphen"/>fore it can bee no ſacrament of the Body of <hi>Chriſt.</hi>
+                  </p>
+                  <p n="7">7. That <hi>Chriſt</hi> was not a true man, nor came out of the <hi>Vir<g ref="char:EOLhyphen"/>gins</hi> womb, but he had a phan<g ref="char:EOLhyphen"/>taſticall body; for (ſay they) it is not fit that ſo great a Ma<g ref="char:EOLhyphen"/>jeſty, ſhould paſſe through the filth that is in a womans bo<g ref="char:EOLhyphen"/>dy.
+<pb n="35" facs="tcp:170080:19"/>
+                     <hi>Vincentius Lirinenſis.</hi>
+                  </p>
+                  <p n="8">8. That there is no day of Judgement to come.</p>
+                  <p n="9">9. That the old Law is e<g ref="char:EOLhyphen"/>vill.</p>
+                  <p n="10">10. That marriages are un<g ref="char:EOLhyphen"/>lawfull.</p>
+                  <p n="11">11. That ſins come from an evill minde, and therefore can<g ref="char:EOLhyphen"/>not bee avoided, for there are two minds in every man, a good and a bad mind.</p>
+                  <p>The good mind they call a reaſonable ſoule, and this they would have to come from the good God; the bad minde they called the concupiſence of the fleſh, &amp; this (ſay they) cam from the bad God, becauſe when ſins come from the bad mind wee have not free wil to hinder the<g ref="char:cmbAbbrStroke">̄</g>.</p>
+                  <pb n="36" facs="tcp:170080:20"/>
+                  <p n="12">12. They did not admit of the Old Teſtament, nor receive the Apoſtles writings in the new Teſtament, but did call their owne opinions the Goſ<g ref="char:EOLhyphen"/>pell of Chriſt. They did alſo boaſt of their owne particular illuminations from heaven, and that they could give the Holy Ghoſt.</p>
+                  <p>Laſtly t hey rejected all civill juriſdiction, affirming that marriage and the governments of Kingdomes, and of Com<g ref="char:EOLhyphen"/>mon wealths were ordained by the evill God. <hi>Euſeb. lib.</hi> 7. <hi>cap.</hi> 31. <hi>Suidas. Epiph. Socrates. Aug. Niceph. Eccles. Hiſt. lib.</hi> 6. <hi>cap.</hi> 31.</p>
+               </div>
+            </div>
+            <div n="4" type="century">
+               <pb n="37" facs="tcp:170080:20"/>
+               <head>Heretikes in the fourth Century.</head>
+               <div n="22" type="heretic">
+                  <head>XXII ARIUS, <hi>and the Arians, Anno Dom.</hi> 315. <hi>or there abouts.</hi>
+                  </head>
+                  <p>He was a Prieſt of <hi>Alexandria,</hi> he taught,</p>
+                  <p n="1">1. That the <hi>Son of God</hi> was like unto <hi>God</hi> in name only, but not in ſubſtance. <hi>Philaſt. de hae<g ref="char:EOLhyphen"/>reſibus.</hi>
+                  </p>
+                  <p n="2">2. That the <hi>Father, Son, and holy Ghoſt,</hi> are not of the ſame nature, power, and Majeſty. For the <hi>father</hi> alone is the inviſible <hi>God,</hi> and he alone is to be wor<g ref="char:EOLhyphen"/>ſhiped. The <hi>Son</hi> may be called <hi>God,</hi> but he is a created <hi>God.</hi> He may be called the <hi>Son of God,</hi>
+                     <pb n="38" facs="tcp:170080:21"/>but he is the <hi>Son of God</hi> by adop<g ref="char:EOLhyphen"/>tion, and not by nature, for ther was a time when he had no be<g ref="char:EOLhyphen"/>ing at all.</p>
+                  <p n="2">2, That the <hi>Son of God</hi> was the firſt creature that ever <hi>God</hi> made, and was made of thoſe things which have no exiſtence, and is the moſt excellent, of all creatures.</p>
+                  <p n="3">3, That the <hi>Son of God</hi> is the Inſtrument of <hi>God</hi> his <hi>father,</hi> by whom he made all other crea<g ref="char:EOLhyphen"/>tures, but yet he doth not know his <hi>fathers</hi> Secrets, not compre<g ref="char:EOLhyphen"/>hend his nature and eſſence.</p>
+                  <p n="4">4. That the <hi>Son</hi> is not infi<g ref="char:EOLhyphen"/>nite as his <hi>father</hi> is, for when he converſed in the world with men he was not then in Heaven with his <hi>Father,</hi> and that the
+<pb n="39" facs="tcp:170080:21"/>Kingdome of the <hi>Son of God</hi> ſhall end with the world.</p>
+                  <p n="5">5, That the <hi>Holy Ghoſt</hi> is a cre<g ref="char:EOLhyphen"/>ature created of the <hi>Son of God,</hi> and doth know neither the na<g ref="char:EOLhyphen"/>ture or ſecrets either of the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi> or of the <hi>Son,</hi> but is much inferior in nature and dignitie unto them both, and is their Servant and ſubject. <hi>Auguſt. Amb. Athanaſius. Baſil, Hilar. Hi<g ref="char:EOLhyphen"/>erom. Socrates. Theod. Niceph. lib.</hi> 8, <hi>c,</hi> 5, 6. <hi>Caſſiodorus, Tripartitae hiſt. lib,</hi> 1 <hi>c,</hi> 12, 13, 14, 15.</p>
+               </div>
+               <div n="23" type="heretic">
+                  <head>XXIII AERIVS, <hi>and the Aerians, anno</hi> 342. <hi>or near it.</hi>
+                  </head>
+                  <p n="1">1. They would have no ſet dayes of <hi>faſting,</hi> but they
+<pb n="40" facs="tcp:170080:22"/>thought it fit that every one ſhould be left to his owne li<g ref="char:EOLhyphen"/>berty to faſt when he himſelfe would, leſt they might bee ſaid to be under the <hi>law</hi> and not un<g ref="char:EOLhyphen"/>der <hi>grace.</hi>
+                  </p>
+                  <p n="2">2. They affirmed that <hi>Biſh<g ref="char:EOLhyphen"/>ops</hi> and <hi>Prieſts</hi> were not diſtin<g ref="char:EOLhyphen"/>guiſhed the one from the other, but were equall both in degree and authority.</p>
+                  <p n="3">3. That none were to be re<g ref="char:EOLhyphen"/>ceived unto the holy <hi>Communi<g ref="char:EOLhyphen"/>on</hi> but they who were continent and had renounced the world. <hi>Epiph. Aug and Philaſt. de haere<g ref="char:EOLhyphen"/>ſibus.</hi>
+                  </p>
+               </div>
+               <div n="24" type="heretic">
+                  <pb n="41" facs="tcp:170080:22"/>
+                  <head>XXIII DONATUS, <hi>and the Donatiſts, about the year</hi> 358.</head>
+                  <p n="1">1. They beleeved that the true <hi>Church of Chriſt</hi> was no where but in <hi>Affrick,</hi> and that there and no where elſe <hi>Baptiſm</hi> was rightly adminiſtred.</p>
+                  <p n="2">2. That the <hi>Sacraments</hi> were holy and Effectuall when they were received at the hands of holy men, and not other<g ref="char:EOLhyphen"/>wiſe.</p>
+                  <p n="3">3. That their <hi>Sect</hi> was with<g ref="char:EOLhyphen"/>out Sin. And</p>
+                  <p n="4">4. That they were not to have any Societie with them who had fallen into any Sin. <hi>Aug &amp; Optatus Milevitanus.</hi>
+                  </p>
+               </div>
+               <div n="25" type="heretic">
+                  <pb n="42" facs="tcp:170080:23"/>
+                  <head>XXV MACEDONIUS, <hi>and the Macedo nians, Anno.</hi> 359, <hi>or therabout.</hi>
+                  </head>
+                  <p>They ſaid that the <hi>Son of God</hi> was like the <hi>Father</hi> in <hi>Subſtance</hi> and in all things, but that the <hi>Moly Ghoſt</hi> was unlike unto the <hi>father</hi> and <hi>Son,</hi> and a meer Cre<g ref="char:EOLhyphen"/>ature, yet they preferrd him before the <hi>Angells.</hi>
+                  </p>
+                  <p>
+                     <hi>Ruſſinus lib.</hi> 1 <hi>hiſt, Eccl, cap,</hi> 25, <hi>Aug, lib, de Haereſibus. cap,</hi> 5, 2,</p>
+               </div>
+               <div n="26" type="heretic">
+                  <head>XXVI. APOLLINARIUS <hi>and his followers Anno.</hi> 377. <hi>or there abouts.</hi>
+                  </head>
+                  <p n="1">1. That <hi>Chriſt</hi> in his Incarna<g ref="char:EOLhyphen"/>tion did aſſume a body without
+<pb n="43" facs="tcp:170080:23"/>a Soule, or if he had a ſoule, yet it was no reaſonable ſoule, but that <hi>God</hi> the word was in<g ref="char:EOLhyphen"/>ſtead of it.</p>
+                  <p n="2">2. Hee brought that body with him from <hi>Heaven,</hi> and made it of the ſame ſubſtance with his divine nature, and that this body when it came on the earth was paſſible, viſi<g ref="char:EOLhyphen"/>ble and mortall.</p>
+                  <p n="3">3. That ſin is a part of mans eſſence, and that therefore if <hi>Chriſt</hi> had beene a perfect man hee muſt needs have beene a ſinner. <hi>Gregor. Nazianz in Epiſt. ad. Nectarium. Baſil. Epiſt.</hi> 72. <hi>Hi<g ref="char:EOLhyphen"/>eron. in Catalogo. Socrates. Sozome<g ref="char:EOLhyphen"/>nus. Ruffinus.</hi>
+                  </p>
+               </div>
+               <div n="27" type="heretic">
+                  <pb n="44" facs="tcp:170080:24"/>
+                  <head>XXVII PRISCILLIANUS <hi>and his follow<g ref="char:EOLhyphen"/>ers, Anno</hi> 388. <hi>or therabouts.</hi>
+                  </head>
+                  <p>Was a <hi>Spaniard,</hi> he gathered many <hi>Hereſies</hi> out of the wri<g ref="char:EOLhyphen"/>tings of thoſe <hi>Heretikes</hi> who were before his time.</p>
+                  <p n="1">1. He and they were of opi<g ref="char:EOLhyphen"/>nion (with <hi>Origen</hi>) that the ſoules ſin'd before their infuſion into the bodies.</p>
+                  <p n="2">2. They thought (with <hi>Tati<g ref="char:EOLhyphen"/>anus</hi> and the <hi>Encratitae</hi>) that the eating of fleſh was an uncleane thing.</p>
+                  <p n="3">3. With the <hi>Gnoſticks</hi> and the <hi>Manichies</hi> they made two <hi>Gods,</hi> one good and another bad. <hi>ut ſupra.</hi>
+                  </p>
+                  <p n="4">4. They confounded the <hi>Per<g ref="char:EOLhyphen"/>ſons</hi>
+                     <pb n="45" facs="tcp:170080:24"/>of the B. <hi>Trinity, with Sabel<g ref="char:EOLhyphen"/>linus.</hi>
+                  </p>
+                  <p n="5">5. They were of opinion (with <hi>Bardeſanes</hi>) that every man had his fatall Star, and that our bodies were compoun<g ref="char:EOLhyphen"/>ded according to the operation of the twelve ſignes in the <hi>Zodi<g ref="char:EOLhyphen"/>ack.</hi>
+                  </p>
+                  <p n="6">6. They thought it no ſinne to ſwear and forſwear rather then to reveale the things they taught. <hi>Aug. de Haereſibus &amp; Hi<g ref="char:EOLhyphen"/>eron in Chronico.</hi>
+                  </p>
+               </div>
+               <div n="28" type="heretic">
+                  <head>XXVIII. JOVINIUS <hi>&amp; the Jovinians, An.</hi> 395. <hi>or neere about.</hi>
+                  </head>
+                  <p>He was a <hi>Monke</hi> at <hi>Rome</hi> con<g ref="char:EOLhyphen"/>temporary with <hi>S. Jerom,</hi> hee and his tribe defended.</p>
+                  <pb n="46" facs="tcp:170080:25"/>
+                  <p n="1">1. That it was lawfull for all men to eate all meates at all times, albeit they were for<g ref="char:EOLhyphen"/>bidden by the eccleſiaſticall <hi>Lawes. Aug. lib. de Haereſibus ad quod vult deum, cap.</hi> 82.</p>
+                  <p n="2">2. That in this life there is no diſparity of <hi>merit,</hi> nor any diſparity of glory in the life to come, but that all ſhould bee rewarded alike in <hi>Heaven.</hi>
+                  </p>
+                  <p n="3">3. That they who have a full and perfect faith when they are regenerate by <hi>Baptiſme</hi> cannot <hi>ſin</hi> any more after <hi>Bap<g ref="char:EOLhyphen"/>tiſme.</hi>
+                  </p>
+                  <p n="4">4. That the B. <hi>Virgin</hi> was carnally known of her husband <hi>Joſeph,</hi> after the birth of <hi>Chriſt, Hieron. libris duobus contra Jo<g ref="char:EOLhyphen"/>vinianum. Aug. ut ſupra. Aquinas
+<pb n="47" facs="tcp:170080:25"/>in tractatu contra detrahent. Reli<g ref="char:EOLhyphen"/>gion. cap.</hi> 6. <hi>Sabellicus lib.</hi> 9. <hi>Septim. Eneadis.</hi>
+                  </p>
+               </div>
+               <div n="29" type="heretic">
+                  <head>XXIX ANTHROPOMORPHITAE.</head>
+                  <p>They lived &amp; ſet abroach their Hereſies at the ſame time with <hi>Jovinian.</hi>
+                  </p>
+                  <p n="1">1. They thought that <hi>God</hi> had the forme and members of a man, becauſe that God is ſaid to have made <hi>man</hi> after his own <hi>image</hi> &amp; likeneſs, <hi>Gen.</hi> 1.26.</p>
+                  <p n="2">2. They ſeperated themſelves from the Church becauſe Uſe<g ref="char:EOLhyphen"/>rers and wicked men were ſuf<g ref="char:EOLhyphen"/>fered therein, <hi>Theodoretus lib.</hi> 4. <hi>Cap</hi> 10, <hi>Aug. ad quod vult deum Epiph. Niceph.</hi>
+                  </p>
+               </div>
+               <div n="30" type="heretic">
+                  <pb n="48" facs="tcp:170080:26"/>
+                  <head>HEIVIDIUS, <hi>and the Helvidians, Anno.</hi> 395. <hi>or near abouts.</hi>
+                  </head>
+                  <p>Theſe were at the ſame time with the <hi>Anthropomorphites,</hi> and were called <hi>Antidicomaritae,</hi> becauſe they oppoſed the per<g ref="char:EOLhyphen"/>petuall <hi>Virginity</hi> of the <hi>B. Virgin. Mary</hi> the <hi>Mother of God;</hi> for they affirmed that ſhee had children by <hi>Joſeph</hi> her Husband after the birth of <hi>Chriſt:</hi> and this they would prove <hi>Mat,</hi> 1, <hi>ver, vult</hi> wher <hi>Chriſt is called the firſt born Son of the B. Virgin.</hi> and <hi>Iohn</hi> 2, 12, <hi>and cap,</hi> 7, 3, <hi>Epiph, lib,</hi> 3, <hi>Tom,</hi> 2, <hi>Hieron cont, Helv, Aug, Her,</hi> 84.</p>
+               </div>
+            </div>
+            <div n="5" type="century">
+               <pb n="49" facs="tcp:170080:26"/>
+               <head>Heretikes in the fift Century.</head>
+               <div n="31" type="heretic">
+                  <head>PELAGIUS, <hi>and the Pelagians. Anno. Dom.</hi> 405.</head>
+                  <p>He was borne in <hi>Great Britany.</hi> He with his Scholars held theſe Aſſertions</p>
+                  <p n="1">1. That the nature of Man after the fall of our firſt Pa<g ref="char:EOLhyphen"/>rents was Good, and not cor<g ref="char:EOLhyphen"/>rupted, Eſpecially the ſoule of Man, and therfore Infants were born without <hi>Sin,</hi> and needed no <hi>Baptiſme,</hi> but yet it was fit that they ſhould be baptized, that they might be honored with the Sacrament of Adopti<g ref="char:EOLhyphen"/>on.</p>
+                  <pb n="50" facs="tcp:170080:27"/>
+                  <p n="2">2. That the luſt of the fleſh was no <hi>Sin,</hi> but a Natural good, and that <hi>ſin</hi> was not propaga<g ref="char:EOLhyphen"/>ted unto mankind by generati<g ref="char:EOLhyphen"/>on, but by innitiation only; nei<g ref="char:EOLhyphen"/>ther could Infants <hi>Sin,</hi> for all <hi>Sin,</hi> is voluntary.</p>
+                  <p n="3">3. That <hi>Sin,</hi> is not the <hi>Death,</hi> but the condition of Nature; <hi>A<g ref="char:EOLhyphen"/>dam</hi> then ſhould have died if he had never ſinned.</p>
+                  <p n="4">4. That all men have free will by nature, not onely in all naturall and morall, but in all ſpirituall things.</p>
+                  <p n="5">5. That the beginning of our ſalvation is in our ſelves, and we may attaine grace of rege<g ref="char:EOLhyphen"/>neration in <hi>Chriſt</hi> by our natu<g ref="char:EOLhyphen"/>rall faculties, if we aske, ſeeke, and knock for the ſame.</p>
+                  <pb n="51" facs="tcp:170080:27"/>
+                  <p n="6">6. That <hi>Faith</hi> is a Generall worke of nature, and no ſpeci<g ref="char:EOLhyphen"/>all work of Grace, and perſe<g ref="char:EOLhyphen"/>verance in <hi>Faith</hi> is in our ſelves.</p>
+                  <p n="7">7. That the love of <hi>God</hi> and of our neighbour, and all our Chriſtian Virtues are of our ſelves, and not of <hi>God.</hi>
+                  </p>
+                  <p n="8">8. That the <hi>prayers</hi> of the <hi>Church</hi> are not neceſſary, ſeeing whatſo<g ref="char:EOLhyphen"/>ever we pray for, we may obtain without <hi>Prayer;</hi> for <hi>God</hi> doth give his grace unto every one according to his own merits.</p>
+                  <p>Laſtly, that men neede not commit any <hi>ſin</hi> except they will themſelves.</p>
+                  <p>
+                     <hi>Aug. lib. de Haereſib ad quod<g ref="char:EOLhyphen"/>vult Deum cap</hi> 8 <hi>&amp; alibi &amp; in li<g ref="char:EOLhyphen"/>bris &amp; Epiſt. ſuis cont. Pelagianos. Hieron. in Epiſt ad. Cteſiphont m.
+<pb n="52" facs="tcp:170080:28"/>Proſp. de Ingratis. Hilarius Are<g ref="char:EOLhyphen"/>latenſis. Maxentius cont. Hor<g ref="char:EOLhyphen"/>miſdam.</hi>
+                  </p>
+               </div>
+               <div n="32" type="heretic">
+                  <head>XXII. PREDESTINATI, <hi>Ann.</hi> 414. <hi>or thereabouts.</hi>
+                  </head>
+                  <p>They had this name given them becauſe in their diſputati<g ref="char:EOLhyphen"/>ons upon <hi>predeſtination</hi> this was their aſſertion, <hi>viz.</hi> good works will doe men no good at all, if by <hi>God</hi> they be <hi>predeſtinated</hi> un<g ref="char:EOLhyphen"/>to death and damnation; nei<g ref="char:EOLhyphen"/>ther will bad workes hurt wic<g ref="char:EOLhyphen"/>ked men if by <hi>God</hi> they bee <hi>pre<g ref="char:EOLhyphen"/>deſtinated</hi> unto eternall life and Salvation. By which this their aſſertion they did hinder many men from doing good works,
+<pb n="53" facs="tcp:170080:28"/>and did ſtir up wicked men to heap ſin upon ſin. <hi>Sigibertus in his Chronicles. Vincentius lib.</hi> 19, <hi>cap.</hi> 5, <hi>&amp; Luceburgenſis.</hi>
+                  </p>
+               </div>
+               <div n="33" type="heretic">
+                  <head>XXXIII. NESTORIUS, <hi>and his Diſciples, a<g ref="char:EOLhyphen"/>bout the yeare</hi> 427.</head>
+                  <p>NESTORIUS, <hi>Archbiſhop</hi> of <hi>Conſtantinople,</hi> and <hi>Anaſtatius</hi> his <hi>Prieſt, Theodorus Mopſuetanus</hi> and the reſt of that moſt wicked ſect did teach (with <hi>Cerinthus</hi>) that the B. <hi>Virgin</hi> bare in her womb a meere <hi>man,</hi> who had onely the nature of a man, and was a man in his perſon, and that therefore the ſaid <hi>Virgin</hi> was not the <hi>mother of God,</hi> but
+<pb n="54" facs="tcp:170080:29"/>the Mother of <hi>Chriſt.</hi> Neither was the <hi>Nativity, Paſſion, Reſur<g ref="char:EOLhyphen"/>rection,</hi> or <hi>Aſſenſion</hi> of <hi>Chriſt,</hi> more then humane, yet (ſay they) the <hi>Son of God</hi> was united unto the <hi>Son of man,</hi> not <hi>ſubſtan<g ref="char:EOLhyphen"/>tially,</hi> by communicating unto him his <hi>hypoſtaſis</hi> or ſubſtance, but <hi>accidentally,</hi> by <hi>Habitation, V<g ref="char:EOLhyphen"/>nion, Operation</hi> and <hi>Participation.</hi> By <hi>Habitation,</hi> for the <hi>Eternall word</hi> or <hi>Son of God</hi> dwelt in the <hi>man Chriſt</hi> as in his Temple, we find himſelfe ſaying, <hi>Diſſolve this Temple, and in three dayes I will rayſe it. Ioh.</hi> 2, 19, wee have it propheſied of him <hi>Eſa.</hi> 7, 14, <hi>They ſhall call his name Emmanuel.</hi> i. e. <hi>God with us,</hi> or God dwelling in us. And his beſt beloved Hiſtoriographer records of him.
+<pb n="55" facs="tcp:170080:29"/>
+                     <hi>The word was made fleſh and dwelt in us. Ioh.</hi> 1.14. By <hi>Vnion</hi> not onely of his will but of his love alſo; for the <hi>Son of Man</hi> was u<g ref="char:EOLhyphen"/>nited both in his will and in his love unto the <hi>Son of God,</hi> they did will and love alwayes the ſame things, even as man and wife doe, who do love one another.</p>
+                  <p>By <hi>Operation,</hi> for the <hi>Man Chriſt</hi> was alwayes the inſtru<g ref="char:EOLhyphen"/>ment which the <hi>Word</hi> or <hi>Son of God</hi> did uſe in the doing of all his great <hi>Miracles.</hi>
+                  </p>
+                  <p>By <hi>Participation,</hi> becauſe the <hi>Son of God</hi> did give unto the <hi>Son of Man</hi> both his name and dig<g ref="char:EOLhyphen"/>nity, for he would have him to be called both <hi>God</hi> and the <hi>Son of God,</hi> and to bee adored of all
+<pb n="56" facs="tcp:170080:30"/>his creatures, not for his owne ſake, as he was the <hi>Son of Man,</hi> but for his ſake who was the <hi>Son of God,</hi> and who did com<g ref="char:EOLhyphen"/>municate unto him both his name and dignity. <hi>Socrates. lib.</hi> 7, <hi>cap.</hi> 32. <hi>Evagrius lib.</hi> 1, <hi>cap.</hi> 2, &amp;c. <hi>Theodoretus lib.</hi> 4, <hi>de haereticis fabulis.</hi>
+                  </p>
+               </div>
+               <div n="34" type="heretic">
+                  <head>XXIV. EUTICHES, <hi>and the Eutychiani, An.</hi> 443.</head>
+                  <p>He was <hi>Abbot</hi> of <hi>Conſtantinople,</hi> he with his aſſociates maintai<g ref="char:EOLhyphen"/>ned theſe Hereſies.</p>
+                  <p n="1">1. That in <hi>Chriſt</hi> after his <hi>in<g ref="char:EOLhyphen"/>carnation,</hi> there was and is but one Nature, and this one Na<g ref="char:EOLhyphen"/>ture was made of his <hi>Divinity</hi>
+                     <pb n="57" facs="tcp:170080:30"/>and his fleſh, by the turning of the Divinity into the fleſh, and this Divinity of <hi>Chriſt</hi> was borne, ſuffered, and was dead and buried.</p>
+                  <p n="2">2. That the fleſh of <hi>Chriſt</hi> is not of the ſame nature with our fleſh, neither was the <hi>Word</hi> or <hi>Son of God</hi> turned into true fleſh, but into fleſh in ſhew and appearance only, ſo that the <hi>word</hi> did rather faigne himſelfe a <hi>Man,</hi> who was borne and di<g ref="char:EOLhyphen"/>ed, then that he was borne and died indeed. For (ſay they) it ſtood not with the Majeſty and excellency of <hi>God</hi> to become true fleſh, or to bee borne, to ſuffer, and to die indeed and truth.</p>
+                  <p>
+                     <hi>Flavianus in Epiſt. ad Leo. Leo
+<pb n="58" facs="tcp:170080:31"/>Papa in Epiſt. ad Leo Imper. Theod. lib.</hi> 4, <hi>de Haereticis fabulis. Eva<g ref="char:EOLhyphen"/>grius lib.</hi> 1, <hi>cap.</hi> 9. <hi>&amp; lib.</hi> 2, <hi>cap.</hi> 4, <hi>&amp;</hi> 16. <hi>&amp; alibi.</hi>
+                  </p>
+               </div>
+               <div n="35" type="heretic">
+                  <head>XXXV THEOPASCHITE, <hi>An.</hi> 476.</head>
+                  <p>
+                     <hi>Petrus Gnaphaeus Biſhop of Anti<g ref="char:EOLhyphen"/>ach</hi> was the author of this <hi>hereſy.</hi>
+                  </p>
+                  <p>Hee and his ſect taught that <hi>God</hi> was crucified, and by <hi>God</hi> they underſtood the whole <hi>Tri<g ref="char:EOLhyphen"/>nity. Evangrius lib.</hi> 3, <hi>cap.</hi> 8, <hi>and</hi> 16. <hi>&amp; Theodoret in Collectaneis.</hi>
+                  </p>
+               </div>
+               <div n="36" type="heretic">
+                  <head>XX. MONOPHISITAE.</head>
+                  <p>There were another ſect of the <hi>Theopaſchites,</hi> called <hi>Mono<g ref="char:EOLhyphen"/>phiſitae,</hi> becauſe they affirmed
+<pb n="59" facs="tcp:170080:31"/>that there was but one <hi>Nature</hi> of the <hi>Word</hi> and his <hi>fleſh,</hi> after the ineffable <hi>Vnion</hi> therof, which made them alſo ſay (with the firſt ſort) that <hi>God ſuf<g ref="char:EOLhyphen"/>fered and was crucified. Niceph. lib.</hi> 18. <hi>cap.</hi> 52. <hi>and</hi> 53.</p>
+               </div>
+            </div>
+            <div n="6" type="century">
+               <head>Heretikes in the ſixt Century.</head>
+               <div n="37" type="heretic">
+                  <head>XXXVII. APTHORDOCITAE, <hi>Ann Do.</hi> 536 <hi>or thereabouts.</hi>
+                  </head>
+                  <p>They were of opinion that the fleſh of <hi>Chriſt</hi> tooke of the Bleſſed <hi>Virgin</hi> was incorrupti<g ref="char:EOLhyphen"/>ble before his paſſion; Wee (ſay they) carry about us by ne<g ref="char:EOLhyphen"/>ceſſity of nature the affection
+<pb n="60" facs="tcp:170080:32"/>of nature, as Hunger, Thirſt, Wearineſſe, Anguiſh, and the like, but <hi>Chriſt</hi> who ſuffered of his owne acord was not ſubject to the ſame Lawes of Nature with us. <hi>Niceph. lib.</hi> 17. <hi>cap.</hi> 29. <hi>Greg. lib.</hi> 10, <hi>Epiſt.</hi> 55.</p>
+               </div>
+            </div>
+            <div n="7" type="century">
+               <head>Heretikes in the ſeventh Century.</head>
+               <div n="38" type="heretic">
+                  <head>XXXVIII. SERGIUS, <hi>the Author of the Mo<g ref="char:EOLhyphen"/>nothelites. Anno</hi> 604. <hi>vel circ.</hi>
+                  </head>
+                  <p>The author of the <hi>Monothe<g ref="char:EOLhyphen"/>lites,</hi> he was <hi>Patriarch</hi> of <hi>Conſtan<g ref="char:EOLhyphen"/>tinople,</hi> and taught that there were two wills in <hi>Chriſt,</hi> a <hi>di<g ref="char:EOLhyphen"/>vine</hi> and an <hi>humane will</hi> before the <hi>Vnion</hi> of his natures, but af<g ref="char:EOLhyphen"/>ter
+<pb n="61" facs="tcp:170080:32"/>the <hi>Vnion</hi> hee had but one will and one nature, whence it came to paſſe that the Divini<g ref="char:EOLhyphen"/>ty ſuffered thoſe things which did belong unto the humanity, and the humanity did appro<g ref="char:EOLhyphen"/>priate unto it thoſe things which did belong unto the Di<g ref="char:EOLhyphen"/>vinity. <hi>Niceph. Lib.</hi> 18, <hi>cap.</hi> 54.</p>
+               </div>
+               <div n="39" type="heretic">
+                  <head>XXXIX. SERGIUS, <hi>the Maſter of Maho<g ref="char:EOLhyphen"/>met. An.</hi> 630. <hi>vel circ.</hi>
+                  </head>
+                  <p>Some contend that hee was the ſame with the former, but whether hee were or not hee was author of two Hereſies, the <hi>Minothelites</hi> and the Mahu<g ref="char:EOLhyphen"/>metans, wherefore let him (at leaſt his name) ſhall ſtand in
+<pb n="62" facs="tcp:170080:33"/>the front of them both. He was a monk, he embraced, the He<g ref="char:EOLhyphen"/>reſie of <hi>Arius</hi> and <hi>Neſtorius,</hi> for which he was baniſhed. Hee comming into Arabia fell ac<g ref="char:EOLhyphen"/>quainted with <hi>Mahomet</hi> the falſe Prophet, him hee taught to miſinterpret many places both in the old and new Teſta<g ref="char:EOLhyphen"/>ment, out of which falſe inter<g ref="char:EOLhyphen"/>pretations of theirs, they did coine a new Religion, which was neither wholly Chriſtian, nor wholly Jewiſh, but was compounded of them both, re<g ref="char:EOLhyphen"/>jecting in both Religions thoſe things which they diſliked: and this neweſt Religion is cal<g ref="char:EOLhyphen"/>led <hi>Mahumetiſme. Pomponius Lae<g ref="char:EOLhyphen"/>tus. Johan. Baptiſta Egnatius.</hi>
+                  </p>
+                  <p>Hee in Arabia among the
+<pb n="63" facs="tcp:170080:33"/>Hagarenes and Saracens was both a King and a Prophet.</p>
+                  <p>Hee denied the Trinity with <hi>Sabellinus:</hi> he ſaid it was ridicu<g ref="char:EOLhyphen"/>lous to thinke that Chriſt was God, and therefore with <hi>Arri<g ref="char:EOLhyphen"/>us</hi> and <hi>Eunomius</hi> hee taught him to be a creature, and with <hi>Car<g ref="char:EOLhyphen"/>pocrates</hi> to bee an holy Prophet.</p>
+                  <p>Hee maintained with <hi>Cedron</hi> that it was impoſſible that God ſhould have a ſon becauſ he had no wife. Hee denyed with the <hi>Manichies</hi> that Chriſt was cru<g ref="char:EOLhyphen"/>cified, but ſaith he, one was cru<g ref="char:EOLhyphen"/>cified in his place who was very like him. With the <hi>Originiſts</hi> he wil have the Divels to be ſaved at the end of the world, &amp; with the <hi>Anthropomorphites</hi> hee will have God to have the form and
+<pb n="64" facs="tcp:170080:34"/>members of a man, with <hi>Cerin<g ref="char:EOLhyphen"/>thus</hi> hee places the chiefeſt feli<g ref="char:EOLhyphen"/>city of man in bodily pleaſures, and with <hi>Ebion</hi> hee doth admit of Circumciſion, and with the <hi>Encratitae</hi> hee forbids the uſe of wine. Firſt hee ſaith that the <hi>Alcoran</hi> was made of the Holy Ghoſt, and their ſins ſhall never be forgiven who believe it not, as alſo that Chriſtians and Jewes who contradict it, can<g ref="char:EOLhyphen"/>not be ſaved.</p>
+                  <p n="2">2, In his <hi>Alcoran</hi> he maketh Friday his Sabboth day, per<g ref="char:EOLhyphen"/>mitteth a man to have 2.3. or 4. wives, forbiddeth the eating of ſwines fleſh; teacheth that beaſts ſhall riſe againe at the laſt day as well as men, and that Baptiſme is not neceſſary.
+<pb n="65" facs="tcp:170080:34"/>Circumciſeth none before they be ſeven or eight yeers old.</p>
+                  <p n="3">3. He denieth that the Eu<g ref="char:EOLhyphen"/>chariſt is to be kept in remem<g ref="char:EOLhyphen"/>brance of the death of Chriſt, for Chriſt (ſaith He) was not put to Death, but he affirmeth that this Euchariſt is of God, and that it hath great force to con<g ref="char:EOLhyphen"/>firme thoſe who receive it re<g ref="char:EOLhyphen"/>verently in faith and good workes, as alſo that they are damned who commit any great ſin after the receiving of it.</p>
+                  <p>Hee hath his religious men, who preach, and expound the <hi>Alcoran,</hi> who are called <hi>Muph<g ref="char:EOLhyphen"/>tii, Cadii,</hi> and <hi>Telemeani.</hi>
+                  </p>
+                  <div type="part">
+                     <head>Mahomets Heaven.</head>
+                     <p>The bleſſed Mahumetanes
+<pb n="66" facs="tcp:170080:35"/>he ſaith) ſhal live under the ſha<g ref="char:EOLhyphen"/>dow of the beſt trees: they ſhall bee cloathed in ſilke apparrell, and adorned with goodly Rings, Chaines, and Bracelets of Gold and precious ſtones. They ſhall eat the ſweeteſt fruits, and the daintieſt foules, and their drinke ſhall bee the beſt wine, the which ſhall nei<g ref="char:EOLhyphen"/>ther cauſe drunkenneſſe nor headach, they ſhall lie on ſoft bedds and pillowes, and their bedds ſhall be covered with the faireſt Tapeſtry. They ſhall have to their wives moſt beau<g ref="char:EOLhyphen"/>tifull Virgins, which ſhall caſt their eyes on none but their husbands, whom they ſhal love alone. In theſe pleaſures ſhall they live for ever.</p>
+                  </div>
+                  <div type="part">
+                     <pb n="67" facs="tcp:170080:35"/>
+                     <head>Mahomets Hell.</head>
+                     <p>They who believe not the <hi>Alcoran</hi> ſhall be puniſhed in Hell, and be there tormented for ever with Pirch, fire, and Brim<g ref="char:EOLhyphen"/>ſtone: they ſhall eat ſuch meates as ſhall put them to great pain, and the drinke that they ſhall drink ſhall bee made of divers kindes of fire.</p>
+                     <p>
+                        <hi>Ricoldus</hi> in his computation of the Lawes of <hi>Mahomet. Bar<g ref="char:EOLhyphen"/>thotomeus Hungarius. Iohannes de Turrecremata</hi> and <hi>Gulielmus Poſt<g ref="char:EOLhyphen"/>els</hi> in their bookes againſt the Mahumerans, Saracens, &amp;c.</p>
+                     <p>And in the Alcoran Tranſla<g ref="char:EOLhyphen"/>ted out of the Arabick into the Latine tongue by <hi>Thoeaor. Bibliander.</hi>
+                     </p>
+                  </div>
+               </div>
+            </div>
+            <div n="8" type="century">
+               <pb n="68" facs="tcp:170080:36"/>
+               <head>Heretikes in the eight Centurie.</head>
+               <div n="40" type="heretic">
+                  <head>XL. ALBANENSES, <hi>An.</hi> 796.</head>
+                  <p>He taught,</p>
+                  <p n="1">1. That the old Teſtament came from an evill God, and the new Teſtament from a good God.</p>
+                  <p n="2">2. That God did not create new ſoules, nor infuſe them in<g ref="char:EOLhyphen"/>to mens bodies, but they went from body to body, <hi>viz.</hi> ſo ſoon as a mandieth, his ſoule goeth into another body, and giveth life, ſenſe, and motion unto it.</p>
+                  <p n="3">3. That there is no Reſur<g ref="char:EOLhyphen"/>rection of the Body, and that
+<pb n="69" facs="tcp:170080:36"/>the generall Judgement is al<g ref="char:EOLhyphen"/>ready paſt.</p>
+                  <p n="4">4. That before the Incarna<g ref="char:EOLhyphen"/>tion of Chriſt, there was no good man, no not <hi>Adam, Moſes,</hi> or any of the Prophets.</p>
+                  <p n="5">5. That ther are no Hell Tor<g ref="char:EOLhyphen"/>ments, but only thoſe that wee ſuffer in this world.</p>
+                  <p n="6">6. That the world ever was and ever ſhall be in the ſame eſ<g ref="char:EOLhyphen"/>tate that now it is.</p>
+                  <p n="7">7. That God hath no preſci<g ref="char:EOLhyphen"/>ence of any evill, but cometh to the knowledge of it by the De<g ref="char:EOLhyphen"/>vill.</p>
+                  <p>
+                     <hi>Antonius</hi> 4, <hi>Parte Summae Tit:</hi> 11. <hi>cap.</hi> 7.</p>
+                  <pb n="70" facs="tcp:170080:37"/>
+                  <p>
+                     <hi>In the</hi> 9, 10, <hi>and</hi> 11, <hi>Centu<g ref="char:EOLhyphen"/>ries, there is mention made of few or none Heretikes but</hi> B. rengarius, <hi>and even him he reformed Church<g ref="char:EOLhyphen"/>es affirme to have taught the truth.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="12" type="century">
+               <head>Heretikes in the twelfth Centurie.</head>
+               <div n="41" type="heretic">
+                  <head>XLI PETRUS <hi>de Bruis &amp;</hi> HENRICUS, <hi>An.</hi> 1124. <hi>or thereabouts.</hi>
+                  </head>
+                  <p>Their Schollers were called <hi>Petrobuſians</hi> and <hi>Henricians.</hi>
+                  </p>
+                  <p>They taught,</p>
+                  <p n="1">1. That infants can have no good by Baptiſme becauſe they want reaſon and faith to be<g ref="char:EOLhyphen"/>lieve the word of God, which
+<pb n="71" facs="tcp:170080:37"/>is preached unto them.</p>
+                  <p n="2">2. That thoſe infants which are baptiſed muſt bee baptiſed againe, when they come to yeares of diſcretion.</p>
+                  <p n="3">3. Thirdly that the ſupper of the Lord is not to bee given to men in theſe dayes, for it was once given by Chriſt him<g ref="char:EOLhyphen"/>ſelfe unto the Apoſtles only <hi>Bernard. Epiſt.</hi> 148. <hi>&amp; Petrus Ab<g ref="char:EOLhyphen"/>bas Cluniacenſis.</hi>
+                  </p>
+               </div>
+               <div n="42" type="heretic">
+                  <head>XLII. PETRUS ABELARDUS, <hi>Ann.</hi> 1143. <hi>or thereabouts.</hi>
+                  </head>
+                  <p>Hee was a French man, in a French Synode convicted of theſe Hereſies.</p>
+                  <p n="1">1. That the whole nature
+<pb n="72" facs="tcp:170080:38"/>and eſſence of God may be comprehended by the Reaſon of man, and whatſoever God doth, he doth it by a Naturall Neceſſity.</p>
+                  <p n="2">2. God is not the Author of all Good, neither can the Saints in Heaven ſee his Eſ<g ref="char:EOLhyphen"/>ſence.</p>
+                  <p n="3">3. There is ſomthing elſe be<g ref="char:EOLhyphen"/>ſides the Creator and the Cre<g ref="char:EOLhyphen"/>ature, and that is eternall.</p>
+                  <p n="4">4. The holy Ghoſt is not of the ſame Subſtance with the father, but he is the Soule of the world.</p>
+                  <p>
+                     <hi>Platina: Bernardus (larevallen<g ref="char:EOLhyphen"/>ſis, Friſingenſis, &amp; Petrus Perga<g ref="char:EOLhyphen"/>menus, his</hi> Table annexed to the workes of <hi>Aquinas.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="13" type="century">
+               <pb n="73" facs="tcp:170080:38"/>
+               <head>Heretikes in the thirteenth Century</head>
+               <div n="43" type="heretic">
+                  <head>ALBIGENSES, <hi>Anno</hi> 1200.</head>
+                  <p>Their hereſies began to ſpred firſt in the City of <hi>Tolouſe,</hi> in <hi>Narbon,</hi> in <hi>France.</hi>
+                  </p>
+                  <p n="1">1. That ther are two begin<g ref="char:EOLhyphen"/>nings, God and the Devill: God created the Soules of Men, and the Divell the bodies.</p>
+                  <p n="2">2. To go to Church and to pray there, will doe us no good.</p>
+                  <p n="3">3. The ſoules of the dead doe goe into the bodies of beaſts and Serpents, if men doe Live ill; but it they live well, then they goe to the Bodies of Princes and great men.</p>
+                  <pb n="74" facs="tcp:170080:39"/>
+                  <p n="4">4. That the Church ought not to poſſeſſe any thing in proper but in common only:</p>
+                  <p>
+                     <hi>Lucelburgius: Antoninus: Vin<g ref="char:EOLhyphen"/>centius,</hi> &amp; <hi>Caeſarius Ciſt. in dial.</hi>
+                  </p>
+               </div>
+               <div n="44" type="heretic">
+                  <head>ALMARICUS, XLVI.</head>
+                  <p>He was a French Man, &amp; com<g ref="char:EOLhyphen"/>menced Doctor at <hi>Paris,</hi> he held</p>
+                  <p n="1">1. That God ſpake as well in <hi>Ovid,</hi> as in <hi>Auſten.</hi>
+                  </p>
+                  <p n="2">2. Ther is no Reſurrection of the body, no heaven, no hell, but he who hath the know<g ref="char:EOLhyphen"/>ledge of God within him, he hath Heaven within him, &amp; he who hath great ſins within him, hath hell within him.</p>
+                  <p n="3">3. <hi>Adam</hi> &amp; <hi>Eve</hi> ſhould ne<g ref="char:EOLhyphen"/>ver have been married, If they had continued in the ſtate of Innocence, neither ſhould there
+<pb n="75" facs="tcp:170080:39"/>have been any difference of Sex betweene them, but mankind ſhould have increaſed as An<g ref="char:EOLhyphen"/>gells doe.</p>
+                  <p n="4">4. God cannot be ſeen in himſelfe, but in his Creaturs, as light is ſeen in the aire.</p>
+                  <p>
+                     <hi>Caeſarius Ciſterienſis lib. dial. diſ<g ref="char:EOLhyphen"/>tinct.</hi> 5. <hi>Lucelburgius Gangui<g ref="char:EOLhyphen"/>nus, Vincentius.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="14" type="century">
+               <head>Heretikes in the fourteenth Century.</head>
+               <div n="45" type="heretic">
+                  <head>XLV. BEGARDI <hi>and Beguinae, Anno.</hi> 131<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</head>
+                  <p>
+                     <hi>Begardi,</hi> were Monks which kept in Low <hi>Germany,</hi> and <hi>Be<g ref="char:EOLhyphen"/>guinae</hi> were women that lived
+<pb n="76" facs="tcp:170080:40"/>here in a Nunnery, as long as they themſelves would, for they made no expreſſe vow to for<g ref="char:EOLhyphen"/>ſake the world.</p>
+                  <p n="1">1. They held, that men may in this life bee as happy as they may bee in Heaven, <hi>i. e.</hi> they may come to ſuch perfection, that they may be in this world without ſinne, and attaine that meaſure of Grace, that they cannot increaſe in grace.</p>
+                  <p n="2">2. That the ſoule of man is bleſſed in its ſelfe by nature, without the grace of God; and therefore it needeth no light of glory to enlighten it to ſee God, that in the ſight and fruition of him it may be bleſſed.</p>
+                  <p n="3">3. To kiſſe a woman when nature doth not incline unto it,
+<pb n="77" facs="tcp:170080:40"/>is a great ſin; but to lie with a woman when nature and the luſt of the fleſh provokes, is no ſin.</p>
+                  <p n="4">4. A man having attained unto the State of perfection, is not ſubject to any law of man, neither is hee tied any more to faſt, and pray to God. <hi>Alpharus lib.</hi> 2, <hi>de planeta Eccl. Bernar. Bar<g ref="char:EOLhyphen"/>tholomeus Caranza in ſumma Con<g ref="char:EOLhyphen"/>cilior.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="15" type="century">
+               <head>Heretikes in the fifteenth Century.</head>
+               <div n="46" type="heretic">
+                  <head>XLVI. ADAMITAE.</head>
+                  <p>There were two ſorts of <hi>A<g ref="char:EOLhyphen"/>damitae;</hi> one had their name gi<g ref="char:EOLhyphen"/>ven
+<pb n="78" facs="tcp:170080:41"/>them of one <hi>Adam,</hi> who lived in the ſecond Century. Whenſoever (ſaith <hi>Epiphanius</hi>) theſe met together at prayers, or on any other publike occa<g ref="char:EOLhyphen"/>ſion, they were naked. Their Churches were hot houſes, un<g ref="char:EOLhyphen"/>der the ground: before they went into their Churches, e<g ref="char:EOLhyphen"/>very one of them did put off their cloathes in a roome by the Church doore. If any had committed any ſin, they would not admit him any more into their congregations; for they ſaid, that he was <hi>Adam,</hi> who had eaten of the forbidden fruit; and therefore deſerved to bee thruſt out of Paradiſe, <hi>i. e.</hi> to be put out of their Church; for they thought their Church
+<pb n="79" facs="tcp:170080:41"/>to be Paradiſe, and themſelves to bee <hi>Adam,</hi> and <hi>Eve. Epiph. Haereſ.</hi> 52.</p>
+                  <div type="part">
+                     <head>ADAMITAE, <hi>An.</hi> 1414.</head>
+                     <p>The ſecond ſort of <hi>Adamites</hi> had their name of one <hi>Pickard,</hi> who going out of <hi>Gallobelgia</hi> in<g ref="char:EOLhyphen"/>to <hi>Bohemia,</hi> became an <hi>Adamite,</hi> and renewed the former Here<g ref="char:EOLhyphen"/>ſie of the <hi>Adamites;</hi> hee at his firſt comming into <hi>Bohemia,</hi> did draw great multitudes of men and women after him, whom hee commanded to goe naked, and theſe hee called <hi>Adamites,</hi> theſe hee perſwaded that hee was the ſon of God, and willed to call him <hi>Adam.</hi>
+                     </p>
+                     <p>This <hi>Adam</hi> was content that
+<pb n="80" facs="tcp:170080:42"/>his <hi>Adamites</hi> ſhould have the company of what men and wo<g ref="char:EOLhyphen"/>men they would, ſo that firſt his conſent was obtained. If a man were in love with any woman, he came with her hand in hand unto <hi>Adam,</hi> and ſaid I am in love with this woman; then ſaid <hi>Adam,</hi> take her unto thee, goe together, increaſe, and multiply.</p>
+                     <p>And becauſe <hi>Adam</hi> and <hi>Eve</hi> were naked before they ſinned, therfore they goe naked; and for that <hi>Adam</hi> did not know <hi>Eve</hi> untill he had ſinned; ther<g ref="char:EOLhyphen"/>fore they account it aſin to mar<g ref="char:EOLhyphen"/>ry, and are perſwaded that Marriage had never been, if <hi>A<g ref="char:EOLhyphen"/>dam</hi> had never ſinned. They ce<g ref="char:EOLhyphen"/>lebrate their Sacraments naked,
+<pb n="81" facs="tcp:170080:42"/>and man and Woman accom<g ref="char:EOLhyphen"/>pany together naked, and they think as the old <hi>Adamites</hi> did, that their Church is Paradiſe</p>
+                     <p>
+                        <hi>Aeneas Silvius in lib.</hi> 4. <hi>de ori<g ref="char:EOLunhyphen"/>gine Bohemorum. cap.</hi> 41.</p>
+                  </div>
+               </div>
+            </div>
+            <div n="16" type="century">
+               <head>Heretiks in the ſixteenth Century.</head>
+               <div n="47" type="heretic">
+                  <head>XLVII ANABAPTISTS, <hi>An.</hi> 1522.</head>
+                  <p>About this time (ſaith <hi>Slei<g ref="char:EOLhyphen"/>den</hi> ſpeaking of theſe <hi>Anabap<g ref="char:EOLhyphen"/>tiſts</hi>) there was a ſect of certain men, who ſaid that they had talked with God, and that hee had commanded them to kill all wicked men, that only good and godly men might live
+<pb n="82" facs="tcp:170080:43"/>and governe the world.</p>
+                  <p>Of theſe <hi>Anabaptiſts</hi> there were many kinds, and all of them profeſſe ſuch Doctrine, as is neither to be endured in the Church, or Common-wealth, or in the government of the houſehold.</p>
+                  <p>Firſt Anabaptiſticall Arti<g ref="char:EOLhyphen"/>cles not to bee ſuffered in the Church, are,</p>
+                  <p n="1">1. That Chriſt did not aſ<g ref="char:EOLhyphen"/>ſume the fleſh of the Virgin <hi>Mary,</hi> but brought it with him from Heaven.</p>
+                  <p n="2">2. That Chriſt is not true God, but that hee is the beſt of all Saints, becauſe hee received more gift of the Holy Ghoſt then they.</p>
+                  <p n="4">4. That infants unbaptiſed,
+<pb n="83" facs="tcp:170080:43"/>are no ſinners in the ſight of God, but are juſt and innocent, and by this their innocency, they are ſaved without Baptiſ<g ref="char:EOLhyphen"/>me.</p>
+                  <p n="5">5. That infants are not to be baptiſed untill they have rea<g ref="char:EOLhyphen"/>ſon and diſcretion, for the chil<g ref="char:EOLhyphen"/>dren of Chriſtians are holy without Baptiſme, and the chil<g ref="char:EOLhyphen"/>dren of God.</p>
+                  <p n="6">6. That that is no true Chriſtian Church, in which a<g ref="char:EOLhyphen"/>ny ſinners are to be found.</p>
+                  <p>Laſtly, that no ſermons are to bee heard in thoſe Churches, wherein Popiſh Maſſe hath beene.</p>
+                  <p>Secondly, Anabaptiſticall Articles not to bee ſuffered in the Common wealth, are.</p>
+                  <pb n="84" facs="tcp:170080:44"/>
+                  <p n="1">1. That the office of the Ma<g ref="char:EOLhyphen"/>giſtrate pleaſeth not God, nei<g ref="char:EOLhyphen"/>ther can any Chriſtian with a ſafe conſcience be a Magiſtrate, neither ought any ſubject to implore the aid of the Magiſt<g ref="char:EOLhyphen"/>rate for his defence.</p>
+                  <p n="2">2. That a Chriſtian may not ſafely uſe any oath at all, nei<g ref="char:EOLhyphen"/>ther ought any ſubject to take any oath of alleageance unto his Prince, nor ſweare or pro<g ref="char:EOLhyphen"/>miſe any fealty or obedience.</p>
+                  <p n="3">3. That the Magiſtrates li<g ref="char:EOLhyphen"/>ving in the time of the New Teſtament, may not with a ſafe conſcience put to death or pu<g ref="char:EOLhyphen"/>niſh any Malefactors</p>
+                  <p>Laſtly, Anabaptiſticall articles not to bee ſuffered in the Oeco<g ref="char:EOLhyphen"/>nomy or houſhold government.</p>
+                  <pb n="85" facs="tcp:170080:44"/>
+                  <p n="1">1. That a Godly man may not with a ſafe Conſcience have a<g ref="char:EOLhyphen"/>ny goods of his owne but what<g ref="char:EOLhyphen"/>ſoever goods he hath, he muſt make them common.</p>
+                  <p n="2">2. That a Chriſtian man may not be a victualler, nor a Merchant, nor make any wea<g ref="char:EOLhyphen"/>pons.</p>
+                  <p n="3">3. That it is lawfull to di<g ref="char:EOLhyphen"/>vorce the huſband and the wife if they be not of the ſame Reli<g ref="char:EOLhyphen"/>gion, and to mary them unto any other Perſons that doe not diſcent from them in Religi<g ref="char:EOLhyphen"/>on.</p>
+                  <p>
+                     <hi>Lib: concordiae. Sleidan. Schluſ<g ref="char:EOLhyphen"/>ſelburgius Tom.</hi> 2.</p>
+               </div>
+               <div n="48" type="heretic">
+                  <pb n="86" facs="tcp:170080:45"/>
+                  <head>XLVIII. GASPER SUENCFELDIUS, <hi>&amp; his diſciples. Anno.</hi> 1527</head>
+                  <p>Hee came of a Noble family in <hi>Sileſia,</hi> and was a man of good parts before hee fell into theſe Hereſies.</p>
+                  <p n="1">1. That the outward Miniſtry of the word is not neceſſary, neither doth outward Baptiſ<g ref="char:EOLhyphen"/>me further regeneration; nei<g ref="char:EOLhyphen"/>ther in the Lords Supper are the body and bloud of Chriſt exhibited in the bread and wine.</p>
+                  <p n="2">2. That the human nature of Chriſt is no creature, but after his reſurrection was every way equall unto his divine nature.</p>
+                  <pb n="87" facs="tcp:170080:45"/>
+                  <p n="3">3. That the Miniſtry of a vicious Prieſt or Miniſter is not effectuall unto the ſalvati<g ref="char:EOLhyphen"/>on of his Auditory, allbeit hee preacheth never ſo well, or ad<g ref="char:EOLhyphen"/>miniſtreth the Sacraments ac<g ref="char:EOLhyphen"/>cording to the inſtitution of Chriſt. <hi>Lib. Concordiae, Bucolcerus, and Schluſſelourgus, Tom.</hi> 10.</p>
+               </div>
+               <div n="49" type="heretic">
+                  <head>XLIX. <hi>The new</hi> SAMOSATENIANS. <hi>An.</hi> 1532.</head>
+                  <p>The Author of this ſect was <hi>Michael Servetus,</hi> his followers were <hi>Georgius Blandrata, Fran<g ref="char:EOLhyphen"/>ſiſcus David,</hi> and many others in <hi>Tranſilvania;</hi> their opinion is compounded of many ancient Haereſies, as</p>
+                  <pb n="88" facs="tcp:170080:46"/>
+                  <p n="1">1. In God there is no diſtincti<g ref="char:EOLhyphen"/>on of perſons. <hi>Servet. lib.</hi> 5, <hi>Trin. pag.</hi> 189, <hi>&amp; miniſtri Tranſilvani. lib.</hi> 2. <hi>cap.</hi> 4. and this was the Hereſie of <hi>Sabellius, Samoſatenus,</hi> and many others, <hi>ut ſupra.</hi>
+                  </p>
+                  <p n="2">2. Chriſt before his incarnati<g ref="char:EOLhyphen"/>on, was nothing but an <hi>Idea</hi> in the mind of God. <hi>Servet. lib.</hi> 3, <hi>Trinit. pag.</hi> 92, and this was likewiſe taught by <hi>Cerinthus</hi> and <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion, Irenaeus. lib.</hi> 1, <hi>cap.</hi> 25. and 26, as alſo by <hi>Samoſatenus. Aug. Heres.</hi> 44, <hi>and</hi> 45.</p>
+                  <p n="3">3. The Divinity that Chriſt hath, was communicated unto him by God, not by eternall generation, but by the unction of Grace, and by inhabitation: and thus Chriſt may bee called God, but he is a made God, and
+<pb n="89" facs="tcp:170080:46"/>hee is a temporall, but no eter<g ref="char:EOLhyphen"/>nall God. <hi>Blandrata diſput.</hi> 6. <hi>Al<g ref="char:EOLhyphen"/>ba. &amp; miniſtri Hungarici. lib.</hi> 2. <hi>cap.</hi> 7, and this was part of the Hereſie of <hi>Neſtorius</hi> as wee may ſee in <hi>Theodoret. lib.</hi> 4. <hi>here. fabu<g ref="char:EOLhyphen"/>larum,</hi> and in other Heretikes, <hi>ut ſupra.</hi>
+                  </p>
+               </div>
+               <div n="50" type="heretic">
+                  <head>L. <hi>The new</hi> ARRIANS, <hi>Ann.</hi> 1534. <hi>or thereabouts.</hi>
+                  </head>
+                  <p>Theſe came from <hi>Valentius Gentilis,</hi> who was one of the ſchollars of <hi>Servetus,</hi> they taught.</p>
+                  <p n="1">1. That there are three eter<g ref="char:EOLhyphen"/>nall ſpirits, the Father; Son and Holy Ghoſt, which differ in number and eſſence, <hi>Val Gen<g ref="char:EOLhyphen"/>tilis Protheſi,</hi> 20, and 23, and
+<pb n="90" facs="tcp:170080:47"/>this is alſo recorded by <hi>Aretius</hi> in his hiſtory of the puniſhment of <hi>
+                        <g ref="char:V">Ʋ</g>al. Gentilis.</hi> This was the opinion of the Hereticks called <hi>Peratae,</hi> in <hi>Theodoret. lib.</hi> 1, <hi>cap.</hi> 18 <hi>haereticarum fabularum,</hi> and of <hi>Johanis Philoponus</hi> the Here<g ref="char:EOLhyphen"/>tike <hi>Niceph, lib.</hi> 18. <hi>cap.</hi> 48.</p>
+                  <p n="2">2. They taught that theſe three Perſons were not equall, but that the father was far a<g ref="char:EOLhyphen"/>bove the other two, ſo that he might be called <hi>Eſſentiator,</hi> and the other two <hi>Eſſentiati. i. e.</hi> he that had his eſſence of him<g ref="char:EOLhyphen"/>ſelfe alone, and the other their eſſence from him. <hi>Gentilis lib. Antidoto</hi> 3. <hi>fol.</hi> 26. wher he ſaith, that it is the property of the Father to be called the one &amp; only God; And ſo the new
+<pb n="91" facs="tcp:170080:47"/>
+                     <hi>Tritheites</hi> went from <hi>Philiponus</hi> to <hi>Arrius,</hi> for <hi>Arrius</hi> was the firſt that Taught that the father was leſſe then the ſonne. <hi>Epiph. haereſ.</hi> 69.</p>
+                  <p n="3">3. They ſay that the Son of God was not of nothing, neither that he was begotten in time, but from all eternitie of the ſub<g ref="char:EOLhyphen"/>ſtance of his father, <hi>Gent, Pro<g ref="char:EOLhyphen"/>thes</hi> 11 12. And this was the o<g ref="char:EOLhyphen"/>pinion of the New <hi>Arians</hi> in <hi>Auſtins</hi> time. The later <hi>Arrians</hi> granted that the Son was eter<g ref="char:EOLhyphen"/>nall with the father, albeit <hi>Ari<g ref="char:EOLhyphen"/>us</hi> was of another mind. <hi>Aug. lib.</hi> 6. <hi>Trin. cap.</hi> 1. <hi>&amp; lib.</hi> 1. <hi>Trinit. Maximus</hi> doth confeſſe as <hi>Aug:</hi> there ſaith, that the ſon was not of nothing, but was begotten of the ſubſtance of his father. And
+<pb n="92" facs="tcp:170080:48"/>this was the judgement of the Councell held at <hi>Ariminum. &amp;c.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div type="postscript">
+            <pb n="93" facs="tcp:170080:48"/>
+            <head>Poſt-Script.</head>
+            <p>
+               <seg rend="decorInit">A</seg>ND now, Sir, I could wiſh that theſe <hi>Heretikes</hi> ſurvived on ly in Paper, but alas they are all lived over againe, though they ſeeme not at this reſuſſitation to have ſo bright aſcendants as at their birth, for then many approved Wits, and perſons of reverend name were gi<g ref="char:EOLhyphen"/>ven
+<pb n="94" facs="tcp:170080:49"/>over to believe theſe lies, now few beſides narrrow indigeſted ſouls run after them: a providence that promiſes they will the ſooner find their graves, for the vulgar are ſtill as covetous of novelty, as of your commands is</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your moſt humble Servant <hi>R. B.</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170080:49"/>
+         </div>
+      </body>
+   </text>
+</TEI>
